@@ -208,4 +208,3 @@ def generate_multiple_codes():
             'success': False,
             'error': f'Error interno del servidor: {str(e)}'
         }), 500
-
